@@ -18,7 +18,7 @@ avançados aplicando conceitos e ferramentas atuais do mercado.
 * Na definição do modelo inclui cinco camadas convolucionais com MaxPooling.
 * No treinamento do modelo utilizei a quantidade de 100 `epochs`.
 
-> Com essas duas alterações aumentei a acurácia para 76,30%.
+  > Com essas duas alterações aumentei a acurácia para 76,30%.
 
 #### Links
 
