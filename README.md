@@ -15,7 +15,7 @@ avançados aplicando conceitos e ferramentas atuais do mercado.
 
 ### Descrição
 
-* Na definição do modelo inclui cinco camadas convolucionais com MaxPooling.
+* Na otimização da rede neural, inclui cinco camadas convolucionais com MaxPooling.
 * No treinamento do modelo utilizei a quantidade de 100 `epochs`.
 
   > Com essas duas alterações aumentei a acurácia para 76,30%.
